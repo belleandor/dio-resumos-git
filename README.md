@@ -2,7 +2,7 @@
 
 
 
-Repositório para armazenar resumos sobre Git e GitHub do curso de Versionamento de Código da [Digital Inovation One](https://www.dio.me/en).
+Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código da [Digital Inovation One](https://www.dio.me/en).
 
 
 
