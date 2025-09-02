@@ -18,9 +18,10 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 
 | Aulas | Resumos |
 | ------ | ---------- |
-| Instalação, configuração do Git no Windows | [Notas](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+| Instalação, configuração do Git no Windows | [Notas](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) |
 | Autenticação de Token no GitHub | [Notas](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/about-authentication-to-github) |
 | Autenticação via chave SSH | [Notas](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) |
+| Comandos do Windows e Git | [Guia](https://gist.github.com/MoisesTedeschi/96a5cba54c83fd59013f96015ce6ef7b) |
 
 
 
