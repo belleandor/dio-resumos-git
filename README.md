@@ -22,8 +22,11 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 ## 🔎 Referências
 
 ANDRADE, Elidiana. Jornada Gamificada de Git e GitHub.  https://elidianaandrade.gitbook.io/learning-quest/git-and-github/
+
 GIT. Documentation. https://git-scm.com/doc
+
 GITHUB. GitHub Docs. https://docs.github.com/en
+
 TEMPORAL, Jessica. Entenda a diferença entre git stash apply e git stash pop. https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/
 
 
