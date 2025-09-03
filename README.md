@@ -20,7 +20,12 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 | Comandos do Windows e Git | [Guia](https://gist.github.com/MoisesTedeschi/96a5cba54c83fd59013f96015ce6ef7b) |
 | git push e git pull | [Guia](https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c) |
 | git stash pop e git stash apply | [Guia](https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/) |
+| Markdown e dicas | [Guia](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## 🪄✨ GitFluence
+
+IA te ajudando a descobrir e utilizar os comandos git certos.
+[Get started](https://www.gitfluence.com/)
 
 ## 🔎 Referências
 
