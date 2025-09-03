@@ -34,6 +34,8 @@ ANDRADE, Elidiana. Jornada Gamificada de Git e GitHub.  https://elidianaandrade.
 
 GIT. Documentation. https://git-scm.com/doc
 
+TEMPORAL, Jessica. Entenda a diferença entre git stash apply e git stash pop. https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/
+
 
 
 GITHUB. GitHub Docs. https://docs.github.com/en
