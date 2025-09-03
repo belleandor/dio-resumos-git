@@ -2,11 +2,13 @@
 
 Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código da [Digital Inovation One](https://www.dio.me/en).
 
+
 ## ❤️📚 Documentação
 
 - [Documentação Git](https://git-scm.com/doc)
 
 - [Documentação GitHub](https://docs.github.com/pt)
+
 
 ## 📝💡 Resumos das aulas
 
