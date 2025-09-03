@@ -1,18 +1,12 @@
 # DIO | Resumos - Git e GitHub
 
-
-
 Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código da [Digital Inovation One](https://www.dio.me/en).
-
-
 
 ## ❤️📚 Documentação
 
 - [Documentação Git](https://git-scm.com/doc)
 
 - [Documentação GitHub](https://docs.github.com/pt)
-
-
 
 ## 📝💡 Resumos das aulas
 
@@ -25,21 +19,12 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 | git stash pop e git stash apply | [Guia](https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/) |
 
 
-
 ## 🔎 Referências
 
 ANDRADE, Elidiana. Jornada Gamificada de Git e GitHub.  https://elidianaandrade.gitbook.io/learning-quest/git-and-github/
-
-
-
 GIT. Documentation. https://git-scm.com/doc
-
-TEMPORAL, Jessica. Entenda a diferença entre git stash apply e git stash pop. https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/
-
-
-
 GITHUB. GitHub Docs. https://docs.github.com/en
-
+TEMPORAL, Jessica. Entenda a diferença entre git stash apply e git stash pop. https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/
 
 
 
