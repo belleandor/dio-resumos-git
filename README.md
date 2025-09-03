@@ -22,6 +22,7 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 | Autenticação de Token no GitHub | [Notas](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/about-authentication-to-github) |
 | Autenticação via chave SSH | [Notas](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) |
 | Comandos do Windows e Git | [Guia](https://gist.github.com/MoisesTedeschi/96a5cba54c83fd59013f96015ce6ef7b) |
+| git stash pop e git stash apply | [Guia](https://jtemporal.com/entenda-a-diferenca-git-stash-pop-git-stash-apply/) |
 
 
 
