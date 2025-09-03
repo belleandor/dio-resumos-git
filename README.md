@@ -26,7 +26,7 @@ Repositório de resumos sobre Git e GitHub do curso de Versionamento de Código 
 
 IA te ajudando a descobrir e utilizar os comandos git certos.
 
-[Get started](https://www.gitfluence.com/)
+[Get Started!](https://www.gitfluence.com/)
 
 ## 🔎 Referências
 
